@@ -5,3 +5,4 @@ deploy in the dev env
 print('hello world')
 deployment5 master
 deployment4
+deploy to staging
